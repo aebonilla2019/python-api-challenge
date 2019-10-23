@@ -1,0 +1,13 @@
+observable trends
+
+1. As shown by the "CIty Latitude vs. Max Tempurature" as the latitude approches 0 the tempurature tend to rise. This suggest a strong relationship between latitude and max temp.
+
+
+
+
+2. as shown by the "City latitude vs. Wind Speed" plot, for the most part wind speeds are tightly group but they tend to rise as cities move further away from the equator.
+
+
+
+
+3. humidity and cloudiness do not seem to bear a strong relationship with latitude.
